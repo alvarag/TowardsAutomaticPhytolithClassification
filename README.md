@@ -19,3 +19,8 @@ _Under review_
 
 ## Phytoliths images
 The images are in the [repository of the Pompeu Fabra University](https://repositori.upf.edu/handle/10230/44939).
+
+## Notebooks and files
+- 01_Vision_Transformers_classification.ipynb: Trains and evaluates the Vision Transformers trained directly using the pytholiths' images.
+- 02_Dataset_generation_and_experiments_execution.ipynb: Creates the datasets with all the strategies used in the paper and performs the experiments with all the models.
+- 03_Analyze_results.ipynb: Analyses the results created by the previous notebooks.
